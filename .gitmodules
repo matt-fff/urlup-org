@@ -1,0 +1,15 @@
+[submodule "urlup-be"]
+	path = urlup-be
+	url = https://github.com/matt-fff/urlup-be
+[submodule "urlup-fe"]
+	path = urlup-fe
+	url = https://github.com/matt-fff/urlup-fe
+[submodule "urlup-domain-infra"]
+	path = urlup-domain-infra
+	url = https://github.com/matt-fff/urlup-domain-infra
+[submodule "urlup-be-infra"]
+	path = urlup-be-infra
+	url = https://github.com/matt-fff/urlup-be-infra
+[submodule "urlup-fe-infra"]
+	path = urlup-fe-infra
+	url = https://github.com/matt-fff/urlup-fe-infra
